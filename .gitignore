@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+._*
+__MACOSX/
+.venv/
+venv/
+data/
+models/*.pth
+outputs/checkpoints/
+*.pt
+*.ckpt
